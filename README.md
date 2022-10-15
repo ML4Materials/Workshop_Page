@@ -1,1 +1,2 @@
-# ML4Materials.github.io
+# Workshop Homepage
+www.ml4materials.com
