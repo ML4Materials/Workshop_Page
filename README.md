@@ -1,2 +1,1 @@
-# Workshop Homepage
-www.ml4materials.com
+# ml4gene.github.io
